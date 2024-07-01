@@ -1,0 +1,13 @@
+{
+    "name": "kanopi/saplings-demo-events",
+    "description": "Demo content for Saplings Event recipe.",
+    "type": "drupal-recipe",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Jim Birch",
+            "homepage": "https://kanopi.com",
+            "role": "Maintainer"
+        }
+    ]
+}
